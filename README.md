@@ -1,4 +1,4 @@
-# File manager 👋
+# File manager
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](MIT)
 [![Build Status](https://travis-ci.com/serveriev/file-manager.svg?branch=master)](https://travis-ci.com/serveriev/file-manager)
 
@@ -40,7 +40,7 @@ mvn test
 
 ## Author
 
-👤 **Lenur**
+👤**Lenur**
 
 * Github: [@serveriev](https://github.com/serveriev)
 
@@ -48,7 +48,7 @@ mvn test
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
+## License
 
 Copyright © 2020 [Lenur](https://github.com/serveriev).
 
